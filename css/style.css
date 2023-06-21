@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+header{
+    margin-top: 3%;
+}
+body{
+    background-color: #FFD6E7;
+    color: #000;
+    align-items: center;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    text-shadow: 1px 1px 1px #ffd6e7;
+    
+}
+.cp-todo{
+    margin-top: 5%;
+}
+
+h1{
+    font-size: 300%;
+}
+
+.sobre{
+    margin-top: 3%;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding: 5px 5px;
+    background-color: #fff0f6 ;
+    border-radius: 15px;
+}
+
+.instagram{
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 5px 5px;
+    background-color: #fff0f6;
+    margin-top: 3%;
+    margin-left: 8%;
+    margin-right: 8%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: inherit;
+}
+
+.github{
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 5px 5px;
+    background-color: #fff0f6;
+    margin-top: 3%;
+    margin-left: 8%;
+    margin-right: 8%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: inherit;
+}
+
+.linkedin{
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 5px 5px;
+    background-color: #fff0f6;
+    margin-top: 3%;
+    margin-left: 8%;
+    margin-right: 8%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: inherit;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    object-fit: fill;
+}
